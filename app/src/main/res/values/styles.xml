@@ -1,0 +1,10 @@
+<resources>
+    <style name="ButtonWithImage" parent="Widget.AppCompat.Button">
+        <item name="android:background">@drawable/custom_button_background</item>
+        <item name="android:textColor">@color/custom_button_text_color</item>
+    </style>
+    <style name="ButtonWithBorder">
+        <item name="android:background">@drawable/button_border</item>
+        <item name="android:textColor">@android:color/black</item>
+    </style>
+</resources>

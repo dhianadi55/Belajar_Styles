@@ -1,0 +1,4 @@
+<resources>
+    <color name="border_color">#FF0000</color>
+    <color name="custom_button_text_color">#FFFFFF</color>
+</resources>
